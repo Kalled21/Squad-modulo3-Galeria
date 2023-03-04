@@ -1,0 +1,13 @@
+.footer {
+   	height: 5vw;
+	padding: 0 2rem;
+    display:flex;    
+    align-items: center;
+    justify-content: space-around;
+    background-color: var(--mainColor);
+    color:var(--secondaryColor);
+    position: absolute;
+    width: 100%;
+    
+
+}
